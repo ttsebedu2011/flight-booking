@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1612819994 source:c:\users\toshiba\documents\level 6\c++maura\skillsdemo1\ldftravel\flightdetails.cpp
+	"flightdetails.h"
+	<iomanip>
+	"time.h"
+	<bits/stdc++.h>
+
+1612126836 c:\users\toshiba\documents\level 6\c++maura\skillsdemo1\ldftravel\flightdetails.h
+	"time.h"
+	"person.h"
+	<iostream>
+
+1612795276 c:\users\toshiba\documents\level 6\c++maura\skillsdemo1\ldftravel\time.h
+
+1612192793 source:c:\users\toshiba\documents\level 6\c++maura\skillsdemo1\ldftravel\main.cpp
+	<iostream>
+	"flightdetails.h"
+	"report.h"
+
+1612812803 source:c:\users\toshiba\documents\level 6\c++maura\skillsdemo1\ldftravel\time.cpp
+	"time.h"
+
+1612795275 c:\users\toshiba\documents\level 6\c++maura\skillsdemo1\ldftravel\person.h
+	<iostream>
+
+1612810691 source:c:\users\toshiba\documents\level 6\c++maura\skillsdemo1\ldftravel\person.cpp
+	"person.h"
+	<bits/stdc++.h>
+
+1612795276 c:\users\toshiba\documents\level 6\c++maura\skillsdemo1\ldftravel\report.h
+	<iostream>
+	"flightdetails.h"
+
+1612805215 source:c:\users\toshiba\documents\level 6\c++maura\skillsdemo1\ldftravel\report.cpp
+	"report.h"
+	<iomanip>
+
